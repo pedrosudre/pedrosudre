@@ -1,4 +1,4 @@
-## Olá! 🐍
+## Olá! 😁
 
 - 🌱 Estudando Java
 - 💬 Me pergunte sobre Python
