@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Django
 - 💬 Me pergunte sobre Python
-- 😄 Pronomes: ele/dele
 
 
 
