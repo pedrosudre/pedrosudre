@@ -19,7 +19,7 @@
   <img align="center" alt="Pedro-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>  
   <img align="center" alt="Pedro-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Pedro-pic" height="120" width="120" style="border-radius:50px;" src="https://media.discordapp.net/attachments/893543986931834961/1046897383776190554/WhatsApp_Image_2022-11-28_at_17.00.16.jpeg?width=629&height=629">
+  <img align="right" alt="Pedro-pic" height="120" width="120" style="border-radius:50px;" src="https://media.discordapp.net/attachments/511574602472882177/1035333958977720390/Design_sem_nome_1.gif?width=629&height=629">
 </div>
   
   ## 
