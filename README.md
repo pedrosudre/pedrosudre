@@ -1,8 +1,8 @@
-## Olá! 😁
+## Olá! 😁🧿
 
 - 🌱 Estudando Django
 - 💬 Me pergunte sobre Python
-
+- 👨‍💻 Cursando Sistemas de Informação
 
 
 <div align="center">
